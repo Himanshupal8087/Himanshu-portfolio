@@ -505,6 +505,11 @@ a:visited .btn {
         
     }
 
+    .containerrr{
+
+        margin-top: 20%;
+
+    }
     
 }
 
@@ -672,10 +677,10 @@ a:visited .btn {
 
 }
 
-@media (max-width:300px){
+@media (max-width:360px){
 
     .containerrr{
-        margin-top: 50px;
+        margin-top: 200px;
     }
 
     .footer{
