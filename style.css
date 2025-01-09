@@ -672,3 +672,14 @@ a:visited .btn {
 
 }
 
+@media (max-width:290px){
+
+    .containerrr{
+        margin-top: 50px;
+    }
+
+    .footer{
+        width: 100%;
+    }
+
+}
