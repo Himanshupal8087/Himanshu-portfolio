@@ -270,7 +270,7 @@ a:visited .btn {
 }
 .skl{
 
-  
+    margin-top: 20px;
     color:   #6a0dad;
   
     font-size: 50px;
@@ -280,6 +280,7 @@ a:visited .btn {
 /* General Styles */
 .skills-section {
     padding: 2rem;
+    margin-top: 2rem;
     background-color: #f8f9fa;
     text-align: center;
   }
@@ -347,14 +348,8 @@ a:visited .btn {
     color: #6a0dad;
   }
   
-  /* Image Styles */
-  .skills-image {
-    
-    margin-top: 2rem;
-    max-width: 30%;
-    border-radius: 10px;
-  }
   
+
   
   
   
@@ -503,7 +498,15 @@ a:visited .btn {
 
 
 
+  @media (max-width:1090px) {
+    
+    .skl{
+        margin-top: 25%;
+        
+    }
 
+    
+}
 
 
 
@@ -662,12 +665,10 @@ a:visited .btn {
     font-weight: 500;
 }
 
-
-
-
-
-
-
-
+.skl{
+    
+    color: blueviolet ;
+}
 
 }
+
